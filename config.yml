@@ -1,0 +1,7 @@
+github_token: 'abcd1234'
+travis: https://api.travis-ci.com
+projects:
+  - cotap/homebase
+  - cotap/webtap
+  - cotap/robo-tap
+  - doesnt/exist
